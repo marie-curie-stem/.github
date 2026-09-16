@@ -1,6 +1,8 @@
-## Hi there 👋
+<img src="logo_Marie_Curie.jpg" align="right" width=20%>
 
-We are Marie Curie STEM
+# Welcome to Marie Curie STEM
+
+Here we host and save some of our projects, for collaboration and preservation. Please expore!
 
 <!--
 
