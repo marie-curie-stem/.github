@@ -1,8 +1,15 @@
 <img src="logo_Marie_Curie.jpg" align="right" width=20%>
 
-# Welcome to Marie Curie STEM
+### Welcome to Marie Curie STEM
 
 Here we host and save some of our projects, for collaboration and preservation. Please expore!
+
+- [Yolo UNO](https://github.com/marie-curie-stem/yolo-uno)
+- [ESP8266 projects](https://github.com/marie-curie-stem/esp8266)
+- [Scratch](https://github.com/marie-curie-stem/Scratch)
+- [T100 robot car](https://github.com/marie-curie-stem/T100)
+- [OhStem](https://github.com/marie-curie-stem/ohstem)
+
 
 <!--
 
